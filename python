@@ -5,4 +5,8 @@ import os
 a=[1,2,3,4,5,5]
 print("hey this is my demo file for git")
 
+# hey there this my first class of python
+
+s = "hello"
+print(s)
 
